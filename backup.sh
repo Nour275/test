@@ -7,3 +7,7 @@ echo 'This is a valid command'
 
 # After (Introduce syntax error)
 echo 'This is an invalid command
+
+#adding another line
+
+a try to solve test 13
