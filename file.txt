@@ -1,19 +1,37 @@
-Feature branch1, commit1
+<<<<<<< HEAD
+Feature_branch1, com_mit1
 
 commit 2
 Commit 3
+=======
 
-commit 4
+Feature branch 2, commit 1
 
-commit 5
+Commit 18
 
-commit 6
+commit 17
+>>>>>>> feature-branch2
 
+commit 13
+
+commit 11
+
+commit 12
+
+<<<<<<< HEAD
 commit 7
+=======
+commit14 
+>>>>>>> feature-branch2
 
-commit 8
+commit16
 
-commit 9
+commit 18
 
+<<<<<<< HEAD
 
 commit 10
+=======
+commit 10
+
+>>>>>>> feature-branch2
