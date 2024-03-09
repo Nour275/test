@@ -3,4 +3,7 @@ Feature branch 2, commit 1
 
 Commit 2
 
+commit 3
+
+
 
