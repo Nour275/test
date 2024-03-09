@@ -2,3 +2,6 @@ Feature branch1, commit1
 
 commit 2
 Commit 3
+
+commit 4
+
